@@ -2,4 +2,4 @@
 <h2> Deploying on a kubernetes using ansible for Valaxy Technologies </h2>
 <h2> Glad to see you here </h2>
 
-<h2> Hai  this is second build by me -27-3-2020:12.30  </h2>
+<h2> Hello  this is second build by me -27-3-2020:12.30  </h2>
